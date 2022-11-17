@@ -1,0 +1,41 @@
+.cell {
+    text-align: center;
+    display:grid;
+    float:left;
+    margin: 1px;
+    padding-bottom: 0;
+    height: 50px;
+    width: 50px;
+    background-color:darkkhaki;
+}
+
+.cell2 {
+    text-align: center;
+    display:grid;
+    float:left;
+    margin: 1px;
+    padding-bottom: 0;
+    height: 50px;
+    width: 50px;
+    background-color:rgb(36, 192, 140);
+}
+
+.revealed {
+    background-color: grey;
+    background-size: 50px 50px;
+}
+
+.descoperit {
+    background-color: rgb(104, 245, 86);
+    background-size: 50px 50px;
+}
+
+.nedescoperit {
+    background-color: rgb(238, 109, 49);
+    background-size: 50px 50px;
+}
+
+.spatiu {
+    background-color: white;
+    background-size: 50px 50px;
+}
